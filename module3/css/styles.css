@@ -5,19 +5,16 @@ body {
   background-color: #396C2F;
   font-family: 'Oxygen', sans-serif;
 }
-
 /** HEADER **/
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
   border: 0;
 }
-
 .navbar-brand {
   padding-top: 25px;
   padding-left: 0;
 }
-
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
@@ -36,7 +33,6 @@ body {
   width: 90%;
 }
 .category-tile h3 {
-  text-align: center;
   color:#264820;
   font-weight:bold;
 }
@@ -51,6 +47,7 @@ body {
 }
 .category-tile p{
   padding:20px;
+  height:1000px;
 }
 .navbar-default .navbar-nav>li>a { 
   text-align: center;
